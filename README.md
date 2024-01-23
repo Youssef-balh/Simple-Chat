@@ -28,7 +28,5 @@ This is a basic client-server chat application implemented in C using sockets. T
 3. Execute both codes :
    ```bash
      ./server
-   ```
-   ```bash
      ./client
    ```
