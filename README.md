@@ -19,16 +19,16 @@ This is a basic client-server chat application implemented in C using sockets. T
 1. Compile the server code:
 
    ```bash
-   gcc chatserver.c -o server
-  ```
+      gcc chatserver.c -o server
+   ```
 2. Compile the client code:
-  ```bash
-   gcc chatclient.c -o client
-  ```
+   ```bash
+      gcc chatclient.c -o client
+   ```
 3. Execute both codes :
-    ```bash
-  ./server
-  ```
-```bash
-  ./client
-  ```
+   ```bash
+     ./server
+   ```
+   ```bash
+     ./client
+   ```
