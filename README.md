@@ -1,6 +1,6 @@
-# Simple C Socket Chat Application
+# Simple TCP-based C Socket Chat Application
 
-This is a basic client-server chat application implemented in C using sockets. The application allows communication between a client and a server over a local network.
+This is a basic client-server chat application implemented in C using TCP sockets. The application allows communication between a client and a server over a local network.
 
 ## Features
 
@@ -14,7 +14,6 @@ This is a basic client-server chat application implemented in C using sockets. T
 - Make sure you have a C compiler installed on your system.
 - This application is designed for a Linux environment.
 
-### Compilation
 
 1. Compile the server code:
 
